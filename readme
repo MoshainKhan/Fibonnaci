@@ -1,0 +1,12 @@
+The code is an example of an Fibonacci sequence
+The Fibonacci series is a series where the next term is the sum of the previous two terms. The first two terms of the Fibonacci sequence are 0 followed by 1.
+
+This program will request a maximum nth value to reach in generating the Fibonacci sequence. It will display all terms generated less than or equal to the nth term.
+
+This version is iterative.
+
+Formula:
+
+F(n) = F(n-1) + F(n-2)
+
+with seed values of F(0) = 0 and F(1) = 1.
